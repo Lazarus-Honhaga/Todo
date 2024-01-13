@@ -5,4 +5,4 @@ This application contains.
 - **Title** input box.
 - **Description** input box.
 - **Submit** button.
-- **Mark as done** button for completed todos.
+- **Mark as done** button for todos that are done.
